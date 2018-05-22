@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#SelfSetting
+**/Release/
+**/graph/
+
+
+
+
 # User-specific files
 *.suo
 *.user
